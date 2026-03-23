@@ -50,5 +50,3 @@ Le projet est configuré pour être utilisé avec l'IDE IntelliJ IDEA.
 3.  Assurez-vous d'avoir un SDK Java (version 11 ou supérieure) configuré pour le projet.
 4.  Localisez et exécutez la méthode `main` dans le fichier `src/main/Main.java`.
 
----
-*Ce README a été généré pour documenter le projet de programmation concurrente et d'IHM.*
